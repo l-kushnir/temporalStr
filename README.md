@@ -1,5 +1,5 @@
 The repository contains Matlab code for simulating four versions of 
-efficient balanced spiking network described in the article 
+efficient balanced spiking network described in the article http://arxiv.org/abs/1912.10262
 
 `FastOnly.m`  - the code for simulating the network with only fast connections and producing Figure 2 of the paper
 
